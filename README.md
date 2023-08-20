@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Edgar</h1>
 <h3 align="center">A passionate web developer from Argentina</h3>
 
+- 🌱 I’m currently learning **MongoDB and Django**
+
 - 📫 How to reach me **ejguercio@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
