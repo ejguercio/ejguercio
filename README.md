@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning **FastAPI**
   
 -  :books: I hope to incorporate soon **MonggoDB** and **TypeScript**
+
+-  🚀 Portfolio <a href="https://ejguercio.github.io/portfolio/"  target="_blank" rel="noreferrer"> https://ejguercio.github.io/portfolio/
    
 - 📫 How to reach me **ejguercio@gmail.com**
 
