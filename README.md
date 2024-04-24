@@ -6,6 +6,8 @@
 - :books: I hope to incorporate soon **MongoDB**
 
 - 🚀 Portfolio <a href="https://ejguercio.github.io/portfolio/" target="_blank" rel="noreferrer">https://ejguercio.github.io/portfolio/</a>
+
+- 🧔 I'm also in <a href="https://gitlab.innevo.cl/ejguercio">GitLab</a>
    
 - 📫 How to reach me **ejguercio@gmail.com**
 
