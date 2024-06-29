@@ -7,9 +7,9 @@
 
 - 🚀 Portfolio <a href="https://ejguercio.github.io/portfolio/" target="_blank" rel="noreferrer">https://ejguercio.github.io/portfolio/</a>
 
-- 🧔 Tambien estoy en <a href="https://gitlab.innevo.cl/ejguercio">GitLab</a>
+- 🧔 También estoy en <a href="https://gitlab.innevo.cl/ejguercio">GitLab</a>
    
-- 📫 Contactame **ejguercio@gmail.com**
+- 📫 Contáctame: **ejguercio@gmail.com**
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
