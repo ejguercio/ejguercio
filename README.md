@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, Soy Edgar</h1>
 <h3 align="center">Desarrollador web full stack de Argentina</h3>
 
-- 🌱 Actualmente estoy aprendiendo **MongoDB** y **Nest.js**
+- 🌱 Actualmente estoy aprendiendo **Ember** y **Nest.js**
   
-- :books: Espero incorporar pronto **AWS**
+- :books: Espero incorporar pronto algo de **DevOps** :)
 
 - 🚀 Portfolio <a href="https://ejguercio.github.io/portfolio/" target="_blank" rel="noreferrer">https://ejguercio.github.io/portfolio/</a>
 
