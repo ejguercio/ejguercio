@@ -1,11 +1,9 @@
-<h1 align="center">Hola 👋, Soy Edgar</h1>
+<h1 align="center">👋🤓 Hola, soy Edgar</h1>
 <h3 align="center">Desarrollador web full stack de Argentina</h3>
 
 - 🌱 Actualmente estoy aprendiendo **Ember** y **Nest.js**
   
 - :books: Espero incorporar pronto algo de **DevOps** :)
-
-- 🚀 Portfolio <a href="https://ejguercio.github.io/portfolio/" target="_blank" rel="noreferrer">https://ejguercio.github.io/portfolio/</a>
 
 - 🧔 También estoy en <a href="https://gitlab.innevo.cl/ejguercio">GitLab</a>
    
@@ -28,5 +26,6 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
+<a href="https://emberjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ember/ember-original-wordmark.svg" alt="ember" width="40" height="40"/></a>
 </p>
 
