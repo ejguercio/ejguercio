@@ -1,7 +1,7 @@
 <h1 align="center">👋🤓 Hola, soy Edgar</h1>
 <h3 align="center">Desarrollador web full stack de Argentina</h3>
 
-- 🌱 Actualmente estoy aprendiendo **Ember** y **Nest.js**
+- 🌱 Actualmente estoy aprendiendo **Nest.js**
   
 - :books: Espero incorporar pronto algo de **DevOps** :)
 
