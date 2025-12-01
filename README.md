@@ -3,7 +3,7 @@
 
 - 💻 I work as a developer at <a href="https://madow.tech/en">Madow Tech</a>
 
-- 🌱 I am currently learning Nest **Nest.js**
+- 🌱 I am currently learning **Nest.js**
   
 - :books: I hope to incorporate some **DevOps things** soon. :)
    
