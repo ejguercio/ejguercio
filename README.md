@@ -1,15 +1,13 @@
 <h1 align="center">👋🤓 Hola, soy Edgar</h1>
 <h3 align="center">Desarrollador web full stack de Argentina</h3>
 
-- 💻 Desarrollo en <a href="https://madow.tech/en">Madow Tech</a>
+- 💻 I work as a developer at <a href="https://madow.tech/en">Madow Tech</a>
 
-- 🌱 Actualmente estoy aprendiendo **Nest.js**
+- 🌱 I am currently learning Nest **Nest.js**
   
-- :books: Espero incorporar pronto algo de **DevOps** :)
-
-- 🧔 También estoy en <a href="https://gitlab.innevo.cl/ejguercio">GitLab</a>
+- :books: I hope to incorporate some **DevOps things** soon. :)
    
-- 📫 Contáctame: **ejguercio@gmail.com**
+- 📫 Contact me: **ejguercio@gmail.com**
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
